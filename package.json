@@ -2,6 +2,17 @@
   "name": "react-deploy-poc",
   "version": "0.1.0",
   "private": true,
+  "description": "POC react deploy",
+  "homepage": "https://nansou13.github.io/react-deploy-poc",
+  "author": "Nans <nans@gigan.fr>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nansou13/react-deploy-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nansou13/react-deploy-poc/issues"
+  },
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
