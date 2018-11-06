@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-deploy-poc/static/css/main.2102c69a.chunk.css",
+  "main.js": "/react-deploy-poc/static/js/main.69c6839c.chunk.js",
+  "main.js.map": "/react-deploy-poc/static/js/main.69c6839c.chunk.js.map",
+  "static/js/1.b4c0028c.chunk.js": "/react-deploy-poc/static/js/1.b4c0028c.chunk.js",
+  "static/js/1.b4c0028c.chunk.js.map": "/react-deploy-poc/static/js/1.b4c0028c.chunk.js.map",
+  "runtime~main.js": "/react-deploy-poc/static/js/runtime~main.e86a8ef6.js",
+  "runtime~main.js.map": "/react-deploy-poc/static/js/runtime~main.e86a8ef6.js.map",
+  "static/media/logo.svg": "/react-deploy-poc/static/media/logo.5d5d9eef.svg",
+  "static/css/main.2102c69a.chunk.css.map": "/react-deploy-poc/static/css/main.2102c69a.chunk.css.map",
+  "index.html": "/react-deploy-poc/index.html",
+  "precache-manifest.60ba59be527dce3193af280671c29c3c.js": "/react-deploy-poc/precache-manifest.60ba59be527dce3193af280671c29c3c.js",
+  "service-worker.js": "/react-deploy-poc/service-worker.js"
+}
