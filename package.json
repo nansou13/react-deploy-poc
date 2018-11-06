@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "description": "POC react deploy",
-  "homepage": "https://nansou13.github.io/react-deploy-poc",
   "author": "Nans <nans@gigan.fr>",
   "license": "MIT",
   "repository": {
