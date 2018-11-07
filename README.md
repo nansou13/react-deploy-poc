@@ -30,6 +30,12 @@ exemple : http://react-deploy-poc.surge.sh
 exemple: https://build-troucczdjd.now.sh
 upgrade with https://egghead.io/courses/deploy-web-apps-with-zeit-now
 
+## Docker build  + nginx
+Build the Docker image:
+`docker build -t react-deploy-poc .`
+Run your application-container with:
+`docker run -d -p 8080:80 react-deploy-poc`
+And access using http://localhost:8080
 
 ## TODOS 
 Nextjs 4 ssr
