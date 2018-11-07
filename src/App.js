@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Route, Link, Switch } from "react-router-dom";
 
 import Home from './pages/Home'
 import Page1 from './pages/Page1'
 import Page2 from './pages/Page2'
 
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 class App extends Component {
@@ -14,7 +14,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <Router>
             <div>
                 <ul>
                 <li>
@@ -29,12 +28,14 @@ class App extends Component {
                 </ul>
 
                 <hr />
-
-                <Route exact path="/" component={Home} />
-                <Route path="/page1" component={Page1} />
-                <Route path="/page2" component={Page2} />
+                <Switch>
+         
+                  <Route exact path="/" component={Home} />
+                  <Route path="/page1" component={Page1} />
+                  <Route path="/page2" component={Page2} />
+        
+                </Switch>
             </div>
-        </Router>
         </header>
       </div>
     );
