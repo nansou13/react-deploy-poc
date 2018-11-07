@@ -24,8 +24,10 @@ https://react-deploy-poc.firebaseapp.com
 `surge build`
 exemple : http://dashing-curtain.surge.sh/
 
+##Zeit Now
+`now build`
+exemple: https://build-troucczdjd.now.sh
+
 ## TODOS 
 Nextjs 4 ssr
 Netlify
-
-Zeit Now
