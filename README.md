@@ -21,8 +21,9 @@ https://react-deploy-poc.firebaseapp.com
 
 `npm install --global surge`
 `npm run build`
-`surge build`
-exemple : http://dashing-curtain.surge.sh/
+`surge build/ <name>.surge.sh`
+exemple : http://react-deploy-poc.surge.sh
+
 
 ##Zeit Now
 `now build`
@@ -31,3 +32,5 @@ exemple: https://build-troucczdjd.now.sh
 ## TODOS 
 Nextjs 4 ssr
 Netlify
+S3 : https://aws.amazon.com/fr/blogs/mobile/deploy-a-react-app-to-s3-and-cloudfront-with-aws-mobile-hub/
+Docker node for build and image nginx for static 
