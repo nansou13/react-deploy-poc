@@ -28,6 +28,8 @@ exemple : http://react-deploy-poc.surge.sh
 ##Zeit Now
 `now build`
 exemple: https://build-troucczdjd.now.sh
+upgrade with https://egghead.io/courses/deploy-web-apps-with-zeit-now
+
 
 ## TODOS 
 Nextjs 4 ssr
