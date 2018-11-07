@@ -16,3 +16,16 @@ use heroku branch and push it will deploy on heroku, I use serve lib
 
 Use firebase-tool to deploy
 https://react-deploy-poc.firebaseapp.com
+
+## SURGE.SH
+
+`npm install --global surge`
+`npm run build`
+`surge build`
+exemple : http://dashing-curtain.surge.sh/
+
+## TODOS 
+Nextjs 4 ssr
+Netlify
+
+Zeit Now
