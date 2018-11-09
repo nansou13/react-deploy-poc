@@ -25,7 +25,7 @@ https://react-deploy-poc.firebaseapp.com
 exemple : http://react-deploy-poc.surge.sh
 
 
-##Zeit Now
+## Zeit Now
 `now build`
 exemple: https://build-troucczdjd.now.sh
 upgrade with https://egghead.io/courses/deploy-web-apps-with-zeit-now
@@ -37,8 +37,11 @@ Run your application-container with:
 `docker run -d -p 8080:80 react-deploy-poc`
 And access using http://localhost:8080
 
+## Netify
+use netify branch and push , it will deploy on https://flamboyant-mahavira-27e29a.netlify.com/
+we can add custom domain ! 
+
 ## TODOS 
 Nextjs 4 ssr
-Netlify
+
 S3 : https://aws.amazon.com/fr/blogs/mobile/deploy-a-react-app-to-s3-and-cloudfront-with-aws-mobile-hub/
-Docker node for build and image nginx for static 
